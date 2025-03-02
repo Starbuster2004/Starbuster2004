@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I have a passion for Generative AI, Large Language
 
 ## 💬 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile URL](#)
+- **LinkedIn:** www.linkedin.com/in/govindraj-kotalwar-2004-297986257(#)
 - **Twitter (X):** [Your Twitter/X Profile URL](#)
 - **Personal Website:** [Your Website URL](#)
 
