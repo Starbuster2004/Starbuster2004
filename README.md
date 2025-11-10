@@ -112,3 +112,50 @@ Creating **intelligent, autonomous solutions** that leverage the power of Genera
 ---
 
 ## 📚 Learning & Expertise
+
+### 🎓 Key Competencies
+- **LLM Architecture**: Building and fine-tuning custom language models
+- **RAG Systems**: End-to-end retrieval-augmented generation pipelines
+- **Multi-Agent Systems**: Designing collaborative AI agents with decision-making capabilities
+- **Prompt Engineering**: Advanced techniques for optimal model performance
+- **Vector Databases**: Optimization and scaling of semantic search systems
+
+### 📖 Research Interests
+- Emerging LLM architectures and training methodologies
+- Efficient inference and model quantization
+- Agent reasoning and planning frameworks
+- Knowledge representation and retrieval optimization
+
+---
+
+## 🎯 Goals & Vision
+
+- 🚀 Democratize advanced AI technologies for developers
+- 🔬 Advance the state-of-the-art in LLM applications
+- 🌍 Build solutions that create meaningful real-world impact
+- 👥 Foster an open-source AI community
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Starbuster2004&theme=dark&show_icons=true)
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+I'm always excited to:
+- 💡 Discuss innovative AI solutions
+- 🤝 Collaborate on open-source projects
+- 📧 Exchange ideas about LLMs and RAG
+- 🎓 Share knowledge and learn together
+
+**Feel free to reach out via:**
+- 📧 Email: govindrajkotalwar038@gmail.com
+- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/govindraj-kotalwar-2004-297986257)
+- 🐙 GitHub: [Follow on GitHub](https://github.com/Starbuster2004)
+
+---
+
+### ⭐ If you find my work interesting, consider giving a star! Your support fuels innovation! ⭐
